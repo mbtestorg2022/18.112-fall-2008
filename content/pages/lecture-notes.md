@@ -116,7 +116,7 @@ Conformal maps; linear transformations: analytic functions and elementary geomet
 Ahlfors, pp. 69-80
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6))
+([PDF]({{< baseurl >}}/resources/lecture6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +146,7 @@ Line integrals: path independence and its equivalence to the existence of a prim
 Ahlfors, pp. 101-108
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture8))
+([PDF]({{< baseurl >}}/resources/lecture8))
 {{< tdclose >}}
 
 {{< trclose >}}
